@@ -1,5 +1,5 @@
 # parking-spot
-This project was based on YouTube the class of Michelli Brito:: https://www.youtube.com/watch?v=LXRU-Z36GEU
+This project was based on Michelli Brito class: https://www.youtube.com/watch?v=LXRU-Z36GEU
 
 It's an API to control parking spots of a condominio.
 
